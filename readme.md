@@ -23,7 +23,7 @@ This project is a simple and elegant photo gallery created using HTML and CSS. I
 
 ## Screenshot
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](./assets/images/Screenshot.png)
 
 ## Demo
 
