@@ -39,6 +39,7 @@ Check out the live demo of the project [here](https://poetic-choux-7f881e.netlif
 - HTML
 - CSS
 - FlexBox
+- CSS Grid
 
 ## Usage
 
@@ -48,11 +49,11 @@ Check out the live demo of the project [here](https://poetic-choux-7f881e.netlif
    git clone https://github.com/your-username/photo-gallery.git
    ```
 
--Open the project in your preferred code editor.
+- Open the project in your preferred code editor.
 
--Open the index.html file in a web browser to view the photo gallery. Click on the category labels to filter photos based on the selected category.
+- Open the index.html file in a web browser to view the photo gallery. Click on the category labels to filter photos based on the selected category.
 
-# Example command to open in a browser
+### Example command to open in a browser
 
 firefox index.html
 
