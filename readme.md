@@ -14,8 +14,8 @@
 
 ## Links
 
-- **Solution URL:** [GitHub Repository](https://github.com/your-username/photo-gallery)
-- **Live Demo:** [Live Demo URL](https://your-project-live-demo-url.com)
+- **Solution URL:** [GitHub Repository](https://github.com/aruntutter/photo-gallary_with_html-css)
+- **Live Demo:** [Live Demo URL](https://poetic-choux-7f881e.netlify.app/)
 
 ## Description
 
@@ -27,7 +27,7 @@ This project is a simple and elegant photo gallery created using HTML and CSS. I
 
 ## Demo
 
-Check out the live demo of the project [here](https://your-project-live-demo-url.com).
+Check out the live demo of the project [here](https://poetic-choux-7f881e.netlify.app/).
 
 ## Features
 
